@@ -1,0 +1,4 @@
+../Core/Src/fnd4digit.c:38:6:fnd4digit_sec_clock	8	static
+../Core/Src/fnd4digit.c:69:6:FND_update	16	static
+../Core/Src/fnd4digit.c:84:6:FND4digit_off	8	static
+../Core/Src/fnd4digit.c:95:6:FND4digit_on	8	static

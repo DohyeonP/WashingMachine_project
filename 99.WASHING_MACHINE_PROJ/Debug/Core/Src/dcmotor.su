@@ -1,0 +1,2 @@
+../Core/Src/dcmotor.c:18:6:dcmotor_pwm_control	8	static
+../Core/Src/dcmotor.c:85:6:init_dcmotor_pwm	8	static

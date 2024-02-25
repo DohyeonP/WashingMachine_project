@@ -1,0 +1,2 @@
+dcmotor.c:18:6:dcmotor_pwm_control	12
+dcmotor.c:85:6:init_dcmotor_pwm	1
